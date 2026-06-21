@@ -1,0 +1,168 @@
+/* Import fonts: serif for headers, sans for body, mono for numbers */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500;600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+    --rt-bg: #F7F5F1;
+    --rt-surface: #FFFFFF;
+    --rt-navy: #1B2430;
+    --rt-slate: #6B7785;
+    --rt-border: #E3E0D7;
+    --rt-green: #2E6B4F;
+    --rt-green-bg: #E7F0EA;
+    --rt-terracotta: #C8553D;
+    --rt-terracotta-bg: #F8E9E5;
+    --rt-ochre: #B8853A;
+    --rt-ochre-bg: #F6EEDD;
+    --rt-blue: #2E5B8A;
+    --rt-blue-bg: #E6EDF5;
+    --rt-shadow: 0 1px 2px rgba(27, 36, 48, 0.04), 0 4px 12px rgba(27, 36, 48, 0.06);
+    --rt-shadow-hover: 0 2px 4px rgba(27, 36, 48, 0.05), 0 8px 20px rgba(27, 36, 48, 0.08);
+}
+
+.stApp {
+    background-color: var(--rt-bg);
+    color: var(--rt-navy);
+    font-family: 'Inter', sans-serif;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #EFEBE2;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lora', serif !important;
+    font-weight: 600 !important;
+    color: var(--rt-navy) !important;
+}
+h1 { font-size: 28px !important; }
+h2 { font-size: 20px !important; }
+h3 { font-size: 17px !important; }
+
+.st-emotion-cache-10trblm a {
+    display: none !important;
+}
+
+.section-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    background: var(--rt-blue-bg);
+    color: var(--rt-blue);
+    font-size: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.custom-card {
+    background-color: var(--rt-surface);
+    border: 1px solid var(--rt-border);
+    border-radius: 14px;
+    padding: 18px 20px;
+    margin-bottom: 1.1rem;
+    box-shadow: var(--rt-shadow);
+    transition: box-shadow 0.15s ease;
+}
+.custom-card:hover {
+    box-shadow: var(--rt-shadow-hover);
+}
+
+.custom-card-good  { border-left: 3px solid var(--rt-green); }
+.custom-card-alert { border-left: 3px solid var(--rt-terracotta); }
+.custom-card-watch { border-left: 3px solid var(--rt-ochre); }
+.custom-card-info  { border-left: 3px solid var(--rt-blue); }
+
+.metric-value {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--rt-navy);
+    margin: 6px 0 10px 0;
+    line-height: 1;
+}
+
+.metric-label {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--rt-slate);
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.metric-icon {
+    font-size: 13px;
+    opacity: 0.75;
+}
+
+.metric-bar-track {
+    height: 4px;
+    border-radius: 4px;
+    background: var(--rt-bg);
+    overflow: hidden;
+    margin-top: 2px;
+}
+.metric-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+}
+.metric-bar-green { background: var(--rt-green); }
+.metric-bar-amber { background: var(--rt-ochre); }
+.metric-bar-red   { background: var(--rt-terracotta); }
+.metric-bar-blue  { background: var(--rt-blue); }
+
+.status-dot {
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    flex-shrink: 0;
+}
+.status-green { background-color: var(--rt-green); }
+.status-amber { background-color: var(--rt-ochre); }
+.status-red   { background-color: var(--rt-terracotta); }
+.status-blue  { background-color: var(--rt-blue); }
+
+.status-pill {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.02em;
+}
+.pill-green { background: var(--rt-green-bg); color: var(--rt-green); }
+.pill-amber { background: var(--rt-ochre-bg); color: var(--rt-ochre); }
+.pill-red   { background: var(--rt-terracotta-bg); color: var(--rt-terracotta); }
+.pill-blue  { background: var(--rt-blue-bg); color: var(--rt-blue); }
+
+.stat-row {
+    display: flex;
+    gap: 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--rt-slate);
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+.stat-row b { color: var(--rt-navy); font-weight: 500; }
+
+[data-testid="stDataFrame"] {
+    border: 1px solid var(--rt-border);
+    border-radius: 10px;
+    box-shadow: var(--rt-shadow);
+}
+
+[data-testid="stImage"] img {
+    border-radius: 10px;
+    border: 1px solid var(--rt-border);
+}
+
+hr {
+    border-top: 1px solid var(--rt-border) !important;
+}

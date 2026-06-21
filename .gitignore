@@ -1,0 +1,51 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+Retail_Dashboard/.venv_dashboard/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Large Raw Datasets
+# =========================
+phase2_OctNov_combined_session_features.csv
+phase5_user_segments.csv
+phase5_user_segments_labeled.csv
+phase5_non_buyers_features.csv
+phase5_buyers_features.csv
+phase5_user_rfm_features.csv
+
+# =========================
+# Optional Generated Outputs
+# (Uncomment if you don't want them on GitHub)
+# =========================
+# Notebooks/Phase 4 Sustainability/phase4_outputs/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak

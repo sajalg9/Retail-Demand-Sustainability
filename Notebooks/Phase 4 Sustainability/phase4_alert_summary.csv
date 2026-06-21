@@ -1,0 +1,138 @@
+category_code,category_id,avg_forecast_demand,last_7d_avg_before_dec,dominant_alert_status
+electronics.smartphone,2.05301E+18,15264.01,11564.57,Stable
+electronics.audio.headphone,2.05301E+18,1780.59,1211.29,Stable
+electronics.video.tv,2.05301E+18,1343.88,802.29,Overstock Risk
+appliances.environment.vacuum,2.05301E+18,820.78,420.14,Overstock Risk
+appliances.kitchen.washer,2.05301E+18,814.52,450.43,Overstock Risk
+computers.notebook,2.05301E+18,732.39,492.86,Stable
+electronics.clocks,2.05301E+18,683.66,450.43,Stable
+appliances.kitchen.refrigerators,2.05301E+18,336.18,175.29,Overstock Risk
+electronics.clocks,2.05301E+18,287.8,156,Overstock Risk
+electronics.tablet,2.17237E+18,244.81,165.86,Stable
+appliances.kitchen.microwave,2.05301E+18,231.04,130,Overstock Risk
+apparel.shoes,2.05301E+18,209.68,99.57,Overstock Risk
+appliances.iron,2.05301E+18,199.21,112.57,Overstock Risk
+appliances.kitchen.refrigerators,2.05301E+18,186.82,106.71,Stable
+appliances.kitchen.blender,2.05301E+18,176.54,102.86,Overstock Risk
+apparel.shoes,2.05301E+18,172.66,86.29,Overstock Risk
+appliances.kitchen.oven,2.05301E+18,169.92,88.71,Overstock Risk
+appliances.environment.air_heater,2.05301E+18,167.28,154,Stable
+electronics.telephone,2.05301E+18,156.46,135,Stable
+appliances.kitchen.kettle,2.05301E+18,138.3,96.86,Stable
+appliances.environment.water_heater,2.05301E+18,137.71,88.86,Stable
+appliances.sewing_machine,2.05301E+18,133.9,56.43,Overstock Risk
+auto.accessories.alarm,2.05301E+18,133.12,75.57,Overstock Risk
+appliances.kitchen.meat_grinder,2.05301E+18,128.1,72,Stable
+kids.carriage,2.05301E+18,103.2,59.14,Overstock Risk
+furniture.living_room.cabinet,2.05301E+18,97.76,34.43,Overstock Risk
+auto.accessories.player,2.05301E+18,96.69,99.57,Stable
+construction.tools.drill,2.05301E+18,95.39,57.71,Overstock Risk
+electronics.audio.subwoofer,2.05301E+18,93.77,72.14,Stable
+furniture.bedroom.bed,2.05301E+18,89.45,33.29,Overstock Risk
+apparel.shoes,2.05301E+18,85.5,41.29,Overstock Risk
+auto.accessories.videoregister,2.05301E+18,76.84,59.86,Stable
+furniture.living_room.sofa,2.05301E+18,76.1,29.57,Overstock Risk
+appliances.kitchen.mixer,2.05301E+18,76.04,45.14,Overstock Risk
+computers.peripherals.monitor,2.05301E+18,74.47,49.86,Stable
+computers.desktop,2.05301E+18,72.07,46.86,Stable
+appliances.kitchen.hood,2.05301E+18,71.86,28.86,Overstock Risk
+computers.components.hdd,2.05301E+18,69.1,54.43,Stable
+computers.peripherals.printer,2.05301E+18,64.93,46.86,Stable
+appliances.kitchen.hob,2.05301E+18,62.94,27.86,Overstock Risk
+apparel.shoes.keds,2.05301E+18,55.61,33.14,Overstock Risk
+construction.tools.generator,2.05301E+18,52.93,23.71,Overstock Risk
+computers.desktop,2.05301E+18,52.56,26.43,Overstock Risk
+furniture.kitchen.chair,2.05301E+18,52.06,33.71,Stable
+appliances.kitchen.grill,2.05301E+18,51.45,25,Overstock Risk
+computers.peripherals.mouse,2.05301E+18,50.88,45.71,Stable
+appliances.personal.scales,2.05301E+18,49.49,35.43,Stable
+computers.components.videocards,2.05301E+18,49.14,37.14,Stable
+appliances.kitchen.dishwasher,2.05301E+18,46.92,14.43,Overstock Risk
+appliances.personal.hair_cutter,2.05301E+18,45.91,36.43,Stable
+furniture.bedroom.bed,2.05301E+18,44.43,25.86,Overstock Risk
+computers.components.memory,2.05301E+18,42.33,28.14,Stable
+computers.peripherals.printer,2.05301E+18,39.46,22.29,Overstock Risk
+appliances.ironing_board,2.05301E+18,39.1,20.86,Overstock Risk
+appliances.environment.air_conditioner,2.05301E+18,39,20.29,Overstock Risk
+construction.tools.saw,2.05301E+18,37.94,26.86,Stable
+construction.tools.welding,2.12743E+18,37.43,21.43,Overstock Risk
+construction.tools.drill,2.05301E+18,35.41,19.14,Overstock Risk
+furniture.kitchen.table,2.05301E+18,35.29,13.29,Overstock Risk
+kids.toys,2.05301E+18,34.95,26.43,Stable
+accessories.bag,2.05301E+18,34.35,22.57,Stable
+kids.fmcg.diapers,2.05301E+18,34.28,33.57,Stable
+electronics.audio.music_tools.piano,2.05301E+18,33.6,21.14,Overstock Risk
+accessories.bag,2.05301E+18,33.04,17.43,Overstock Risk
+appliances.kitchen.juicer,2.05301E+18,32.55,16.57,Overstock Risk
+apparel.shoes,2.11691E+18,32.19,17.14,Overstock Risk
+computers.peripherals.keyboard,2.05301E+18,32.06,26.57,Stable
+apparel.costume,2.14666E+18,31.99,14.29,Overstock Risk
+appliances.kitchen.coffee_machine,2.05301E+18,30.46,16.14,Overstock Risk
+construction.tools.saw,2.05301E+18,30.22,19.86,Stable
+furniture.kitchen.chair,2.05301E+18,28.35,15.71,Overstock Risk
+computers.components.cpu,2.05301E+18,28.24,19.14,Stable
+appliances.personal.massager,2.05301E+18,26.68,15.57,Overstock Risk
+sport.trainer,2.05301E+18,26.5,12.71,Overstock Risk
+electronics.audio.acoustic,2.05301E+18,26.45,18,Stable
+electronics.telephone,2.05301E+18,23.79,16.86,Stable
+auto.accessories.radar,2.05301E+18,22.72,16,Stable
+computers.desktop,2.05301E+18,21.72,18,Stable
+kids.swing,2.10608E+18,20.96,10.86,Overstock Risk
+computers.components.motherboard,2.05301E+18,20.74,16,Stable
+furniture.living_room.cabinet,2.09552E+18,20.7,7.43,Overstock Risk
+appliances.kitchen.toster,2.05301E+18,20.55,13.71,Stable
+computers.ebooks,2.05301E+18,19.78,9.71,Overstock Risk
+electronics.audio.microphone,2.05301E+18,19.6,12.57,Stable
+kids.dolls,2.05301E+18,19.08,16.29,Stable
+furniture.kitchen.table,2.05301E+18,18.26,6.86,Overstock Risk
+construction.tools.generator,2.05301E+18,17.77,8.57,Overstock Risk
+construction.components.faucet,2.05301E+18,17.11,10,Overstock Risk
+apparel.shoes.keds,2.05301E+18,17.04,15.43,Stable
+computers.components.power_supply,2.05301E+18,16.95,11.14,Stable
+auto.accessories.compressor,2.13491E+18,16.58,10.43,Stable
+electronics.camera.video,2.05301E+18,16.44,10.86,Stable
+kids.toys,2.05301E+18,16.21,15.29,Stable
+computers.components.cooler,2.05301E+18,15.78,12.14,Stable
+medicine.tools.tonometer,2.05301E+18,15.14,10.71,Stable
+electronics.audio.acoustic,2.05301E+18,15.06,7.71,Overstock Risk
+accessories.wallet,2.05301E+18,14.85,10,Stable
+appliances.personal.scales,2.05301E+18,14.76,11,Stable
+furniture.living_room.chair,2.05301E+18,14.02,11.57,Stable
+auto.accessories.compressor,2.16509E+18,13.94,12.57,Stable
+computers.components.cooler,2.05301E+18,13.66,8.57,Stable
+construction.tools.pump,2.05301E+18,11.92,7.57,Stable
+sport.bicycle,2.11691E+18,11.73,11.71,Stable
+appliances.kitchen.steam_cooker,2.05301E+18,10.53,5.14,Overstock Risk
+kids.toys,2.05301E+18,9.93,8.14,Stable
+electronics.tablet,2.05301E+18,9.38,7.86,Stable
+furniture.kitchen.table,2.10006E+18,9,5,Overstock Risk
+sport.trainer,2.05301E+18,8.99,5.43,Stable
+computers.peripherals.mouse,2.05301E+18,8.87,6.71,Stable
+furniture.bedroom.blanket,2.05301E+18,8.81,5.71,Stable
+furniture.bathroom.toilet,2.05301E+18,8.66,4.14,Overstock Risk
+apparel.costume,2.08496E+18,7.8,3.71,Overstock Risk
+appliances.kitchen.kettle,2.09628E+18,7.78,6.57,Stable
+electronics.camera.photo,2.05301E+18,7.74,4.14,Stable
+electronics.audio.acoustic,2.05301E+18,7.6,5.29,Stable
+furniture.bedroom.pillow,2.05301E+18,7.25,3.57,Overstock Risk
+computers.desktop,2.05301E+18,7.18,3.71,Overstock Risk
+furniture.bathroom.bath,2.05301E+18,7.18,2.57,Overstock Risk
+computers.notebook,2.10909E+18,6.71,3.86,Overstock Risk
+appliances.kitchen.coffee_grinder,2.05301E+18,6.31,6.43,Stable
+accessories.bag,2.13915E+18,6.12,4.14,Stable
+stationery.cartrige,2.05301E+18,5.52,4.29,Stable
+kids.skates,2.05301E+18,4.96,4,Stable
+electronics.video.projector,2.05301E+18,4.88,2,Overstock Risk
+electronics.video.tv,2.05301E+18,4.55,3,Stable
+apparel.jeans,2.10083E+18,4.5,3.14,Stable
+apparel.shoes.keds,2.05301E+18,4.23,2,Overstock Risk
+apparel.shoes,2.11691E+18,4.22,2.71,Overstock Risk
+accessories.bag,2.05516E+18,3.82,3.57,Stable
+apparel.shoes,2.05301E+18,3.81,2.71,Stable
+construction.tools.painting,2.12743E+18,3.61,2.71,Stable
+apparel.jeans,2.14666E+18,3.52,2.14,Overstock Risk
+apparel.tshirt,2.09782E+18,3.37,1.71,Overstock Risk
+appliances.environment.vacuum,2.13491E+18,3.31,2.86,Stable
+apparel.underwear,2.07001E+18,3.26,2,Stable
+accessories.bag,2.12668E+18,0.57,2,Understock Risk
+appliances.environment.vacuum,2.09097E+18,-1.35,1.57,Understock Risk
