@@ -4,7 +4,7 @@
 
 An end-to-end retail intelligence platform built on ~24 million real e-commerce events — purchase prediction, demand forecasting, sustainability risk analysis, and customer segmentation, deployed as an interactive Streamlit dashboard.
 
-**Live demo:** https://retail-dashboard-jtx9fh8ywanswe8z2nwjui.streamlit.app/
+🚀 **Live Demo:** [Open Dashboard](https://retail-dashboard-jtx9fh8ywanswe8z2nwjui.streamlit.app/)
 
 ---
 
